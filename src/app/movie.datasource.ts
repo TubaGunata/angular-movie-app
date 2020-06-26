@@ -10,4 +10,4 @@ export const Movies: Movie[] = [
     {id:7, name:"Star Wars",description:"Rise of skywalker",imageUrl:"starwars.jpg"},
     {id:8, name:"Alien",description:"1978",imageUrl:"alien.png"},
     {id:9, name:"Batman",description:"Dark Knight",imageUrl:"batman.jpg"}
-]
+];
